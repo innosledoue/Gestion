@@ -1,0 +1,2 @@
+telecharger le projet
+git clone https://github.com/lekaiser/laschekina.git
